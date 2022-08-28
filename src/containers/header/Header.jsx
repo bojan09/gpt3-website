@@ -11,10 +11,12 @@ const Header = () => {
           Let's Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam,
+          nesciunt. Animi voluptatibus ducimus at quas beatae dolorum
+          consequuntur laudantium sunt soluta nihil ratione aliquid accusantium
+          minus, dolorem explicabo quos iusto fuga saepe quam perspiciatis
+          quibusdam ea aperiam qui. Dignissimos ipsa quam, voluptate labore
+          similique doloremque culpa.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your email adress" />
